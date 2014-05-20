@@ -1,0 +1,41 @@
+body {
+	font: "Times New Roman", Times, serif;
+	background-color:#FFF;
+	font-size: 12px;
+	color: #000;
+}
+
+h1 {
+	font: Verdana, Geneva, sans-serif;
+	font-size: 32px;
+	color: #F00;
+	text-align: center;
+}
+
+h2 {
+	font: "Times New Roman", Times, serif;
+	font-size: 28px;
+	color: #000;
+}
+
+h3 {
+	font: "Times New Roman", Times, serif;
+	font-size: 24px;
+	color: #000;
+}
+h4 {
+	font: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #000;
+	text-align: center;
+}
+p {
+	font: "Verdana", Geneva, sans-serif;
+	font-size: 18px;
+	color: #000;
+}
+.phil {
+	font-size: 14px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
